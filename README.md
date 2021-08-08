@@ -39,3 +39,7 @@ with open('./winston.mp3', 'wb') as audio_file:
     
     audio_file.write(res.content)
 
+
+<img width="1403" alt="Screen Shot 1442-12-29 at 6 03 42 AM" src="https://user-images.githubusercontent.com/56722657/128619945-79554768-cc76-4d81-b150-89ad7131525d.png">
+
+
